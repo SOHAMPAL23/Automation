@@ -35,3 +35,10 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           echo test passed 
+
+      - name: Run assignement 
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
+          echo test passed 
+          echo make your first test case 
